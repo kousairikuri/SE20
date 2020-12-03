@@ -72,6 +72,19 @@ class CheckerTest {
         println("Test006 is OK!")
     }
 
+    /**
+     * @author Riku Iikura 2020/12/03
+     * Check the Fermat pseudoprimes to base 2, also called Sarrus numbers or Poulet numbers.
+     */
+    fun CheckerTest07(){
+        val cnum = listOf(341L, 561L, 645L, 1105L, 1387L, 1729L, 1905L, 2047L, 2465L, 2701L, 2821L, 3277L, 4033L, 4369L, 4371L, 4681L, 5461L, 6601L, 7957L, 8321L, 8481L, 8911L, 10261L, 10585L, 11305L, 12801L, 13741L, 13747L, 13981L, 14491L, 15709L, 15841L, 16705L, 18705L, 18721L, 19951L, 23001L, 23377L, 25761L, 29341L)
+        for (num in cnum){
+            assertFalse { c_.isPrime(num) }
+            assertFalse { c_.isPrimeRepunit(num.toBigInteger()) }
+        }
+        println("Test007 is OK!")
+    }
+
     fun binPowTest01(){
         assertEquals(c_.binPow(2.toBigInteger(),9.toBigInteger(),1000.toBigInteger()),512.toBigInteger())
         assertEquals(c_.binPow(6.toBigInteger(),5.toBigInteger(),31.toBigInteger()),26.toBigInteger())
@@ -87,5 +100,6 @@ fun main(args: Array<String>){
     ctest.CheckerTest03()
     ctest.CheckerTest04()
     ctest.CheckerTest06()
+    ctest.CheckerTest07()
     ctest.binPowTest01()
 }
