@@ -1,5 +1,6 @@
 import java.math.BigInteger
 
+
 class Checker {
     fun checkNum(num: BigInteger): Pair<BigInteger, BigInteger>{
         var s = 0.toBigInteger()
