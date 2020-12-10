@@ -1,33 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bc6f22e-33db-42b2-ad92-483f28a535fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/Checker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SE20/Checker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest01$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest02$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest02$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest03$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest03$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest04$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest04$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest06$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest06$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest07$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest$CheckerTest07$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/CheckerTestKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/META-INF/SE20.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SE20/SampleKt.class" beforeDir="false" />
+    <list default="true" id="12e46449-d525-472c-b146-368fe09148ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +16,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1lRsSDyyycsofnckqbnmnqgnlSe" />
+  <component name="ProjectId" id="1lRu76nkoxgXTB3kiuPvsg3h4TF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +24,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -76,19 +56,13 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0bc6f22e-33db-42b2-ad92-483f28a535fa" name="Default Changelist" comment="" />
-      <created>1607571240069</created>
+      <created>1607572055443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607571240069</updated>
-      <workItem from="1607571243698" duration="477000" />
+      <updated>1607572055443</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
