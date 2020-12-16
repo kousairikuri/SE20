@@ -5,7 +5,7 @@
  *
  * Author : Riku Iikura
  *
- * For the original C code by David Beaumont, see:
+ * For the JAVA code by David Beaumont, see:
  *     http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/VERSIONS/JAVA/MTRandom.java
  *
  * For the original C code by Makoto Matsumoto and Takuji Nishimura, see:
@@ -22,19 +22,6 @@ import java.util.*
  * standard implementation of java.util.Random with the additional
  * advantage of having a far longer period and the ability to use a
  * far larger seed value.
- *
- *
- * This is **not** a cryptographically strong source of randomness
- * and should **not** be used for cryptographic systems or in any
- * other situation where true random numbers are required.
- *
- *
- *
- * [<img alt="CC-GNU LGPL" border="0" src="http://creativecommons.org/images/public/cc-LGPL-a.png"></img>](http://creativecommons.org/licenses/LGPL/2.1/)<br></br>
- * This software is licensed under the [CC-GNU LGPL](http://creativecommons.org/licenses/LGPL/2.1/).
- *
- *
- *
  */
 class MTRandom : Random {
     // Internal state
